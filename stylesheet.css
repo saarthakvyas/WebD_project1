@@ -1,0 +1,21 @@
+html {
+		height: 100%;
+		}
+h1 {
+	font-family: verdana;
+	font-size: 300%;
+	color: powderblue;
+	border: 2px solid green;
+	position: sticky;
+	}
+body {
+		font-family: Georgia, "Times New Roman",Times, serif;
+		background-image: linear-gradient(to bottom right, gray, white);
+		
+	}
+ul.navbar{
+		position: absolute;
+		top: 6em;
+		left:0em;
+		width:9em;
+		}
